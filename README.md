@@ -2,7 +2,7 @@
 
 > **Servidor MCP local-first de memória persistente, busca híbrida (FTS5 + Vetores Exatos + RRF) e engenharia de agentes (Sanitização Tipada, Handoff Claim-Once e Evals Reproduzíveis).**
 
-Projeto autoral de portfólio para **AI Engineering**, projetado para operar com **custo financeiro zero (R$ 0,00)** no **Windows 11**, unindo a simplicidade de contrato do [`YudiG12/second-brain-mcp`](https://github.com/YudiG12/second-brain-mcp) com a engenharia de memória e segurança de agentes do [`akitaonrails/ai-memory`](https://github.com/akitaonrails/ai-memory).
+Servidor MCP (Model Context Protocol) em Python para memória persistente de agentes, com armazenamento em Markdown versionado no Git, busca híbrida local (SQLite FTS5 + vetores NumPy via `fastembed` + RRF), sanitização de segredos em fronteira tipada e controle de concorrência otimista (`expected_version`), operando 100% offline e com custo zero no Windows 11.
 
 ---
 
