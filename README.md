@@ -1,3 +1,5 @@
+![Cortex Banner](./cortex-banner.svg)
+
 # Cortex (`cortex-mcp`)
 
 > **Servidor MCP local-first de memória persistente, busca híbrida (FTS5 + Vetores Exatos + RRF) e engenharia de agentes (Sanitização Tipada, Handoff Claim-Once e Evals Reproduzíveis).**
