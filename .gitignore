@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+dist/
+*.egg-info/
+
+# derived index and local data: always rebuildable from the Markdown vault
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm

@@ -1,0 +1,2 @@
+# LF everywhere: CRLF would change content hashes (vault manifest, fixtures) and create false drift on Windows.
+* text=auto eol=lf
